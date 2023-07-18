@@ -1,0 +1,8 @@
+.btn {
+  border-radius: 100%;
+  height: .8em;
+  width: .8em;
+  background-color: rgba(93, 89, 91, 0.8);
+  padding: .8em;
+  color: rgba(169, 162, 166, 0.8)
+}
